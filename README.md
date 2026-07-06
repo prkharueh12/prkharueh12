@@ -25,6 +25,7 @@ I shift left, finding defects before they become expensive problems. AI-assisted
 - Sharper debugging and root cause analysis
 - Coverage gaps and edge-case detection
 - Stronger test automation design strategy
+- Building custom agents (plan, generate, heal) trained on company standards and business rules, with app workflow skills fed in to guide how each agent operates
 
 ## Portfolio
 
