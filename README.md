@@ -36,7 +36,9 @@ I shift left, finding defects before they become expensive problems. AI-assisted
 ## Career Interests
 
 - AI Evaluation Engineer
-- LLM / Chatbot QA Engineer
+- LLM/Chatbot Auditor
+- AI Red Teamer
+- Bias Evaluator
 - AI-Assisted Test Automation Engineer
 - SDET
 
