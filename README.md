@@ -33,6 +33,8 @@ I shift left, finding defects before they become expensive problems. AI-assisted
 
 **[financialChatbotSmokeDemo](https://github.com/prkharueh12/financialChatbotSmokeDemo)** A Promptfoo-based evaluation setup for smoke-testing a financial chatbot's prompts across providers, with configurable test cases and assertions.
 
+**[full_auto_OrangeHRMdemo](https://github.com/prkharueh12/full_auto_OrangeHRMdemo)** A Playwright + TypeScript E2E test suite for the OrangeHRM demo app built with the Page Object Model, paired with custom Claude Code agents that plan, generate, and self-heal tests, fully wired into a GitHub Actions CI/CD pipeline with Slack reporting.
+
 ## Career Interests
 
 - AI Evaluation Engineer
