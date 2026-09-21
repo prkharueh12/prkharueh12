@@ -29,6 +29,8 @@ I shift left, finding defects before they become expensive problems. AI-assisted
 
 ## Portfolio
 
+**[playwright-ai-assistance](https://github.com/prkharueh12/playwright-ai-assistance)** Korso Agent: a RAG chatbot that answers Playwright testing questions, grounded in the official Playwright documentation. Supports bring-your-own-key access across OpenAI, Anthropic, and Google Gemini, wrapped in a custom branded interface with a day/night photographic theme. [Live demo](https://korso-ai-agent.vercel.app/)
+
 **[playwright-cli-custom-agents](https://github.com/prkharueh12/playwright-cli-custom-agents)** A reusable Playwright E2E test template paired with Claude Code agents/skills that plan, generate, and self-heal tests using the Page Object Model pattern.
 
 **[financialChatbotSmokeDemo](https://github.com/prkharueh12/financialChatbotSmokeDemo)** A Promptfoo-based evaluation setup for smoke-testing a financial chatbot's prompts across providers, with configurable test cases and assertions.
